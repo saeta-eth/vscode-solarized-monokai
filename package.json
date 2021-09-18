@@ -1,0 +1,44 @@
+{
+  "name": "vscode-solarized-monokai",
+  "version": "1.0.2",
+  "description": "Solarized + Monokai Theme",
+  "displayName": "Solarized + Monokai Theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slorenzo/vscode-solarized-monokai.git"
+  },
+  "keywords": [
+    "solarized",
+    "monokai",
+    "dark",
+    "theme"
+  ],
+  "publisher": "slorenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slorenzo/vscode-solarized-monokai/issues"
+  },
+  "homepage": "https://github.com/slorenzo/vscode-solarized-monokai#readme",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized + Monokai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.99.0"
+  }
+}
