@@ -1,7 +1,8 @@
  # VS Code Solarized + Monokai Theme
 
 Based on the built-in Solarized and Monokai themes, it takes the best of both themes.
-After install, the themes are called 'Solarized + Monokai Theme'.
+
+After install, the theme is called 'Solarized + Monokai Theme'.
 
 ## Screenshots
 
