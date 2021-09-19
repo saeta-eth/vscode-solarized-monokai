@@ -8,6 +8,14 @@ After install, the theme is called 'Solarized + Monokai Theme'.
 
 !["Solarized + Monokai Theme"](https://github.com/slorenzo/vscode-solarized-monokai/raw/master/screenshots/image.png)
 
+## Install
+
+Use the VS Code Extension tab and search for: Solarized + Monokai theme
+
+or
+
+Click on the following URL: https://marketplace.visualstudio.com/items?itemName=slorenzo.vscode-solarized-monokai
+
 ## License
 
 MIT
